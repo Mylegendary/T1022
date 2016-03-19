@@ -7,5 +7,6 @@ public class GitTest {
 		System.out.println("liliang");
 		System.out.println("yeyuankai");
 		System.out.println("liuyonghui");
+		System.out.println("legendary");
 	}
 }
